@@ -6,7 +6,7 @@ import java.util.logging.Logger;
 
 public class InputOperation {
 	
-	private InputOperation(){}
+	public InputOperation(){}
 	
 	private static void main(String[] args) {
 		try {
